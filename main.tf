@@ -8,5 +8,5 @@ terraform {
   }
 }
 
-resource "random_pet" "num1" {
+resource "random_pet" "fish" {
 }
